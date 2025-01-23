@@ -22,7 +22,7 @@ Se debe tener instalados los siguientes programas en tu máquina:
 Clona el repositorio a tu máquina local usando Git:
 
 ```bash
-git clone https://github.com/tu-usuario/farma-api.git
+git clone https://github.com/danielsolanoz12/farma
 cd farma-api
 
 ## 
