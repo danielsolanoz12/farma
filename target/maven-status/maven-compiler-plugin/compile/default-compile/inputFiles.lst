@@ -1,0 +1,17 @@
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\config\SecurityConfig.java
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\config\SwaggerConfig.java
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\controller\AuthController.java
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\controller\TicketController.java
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\controller\UsuarioController.java
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\excepciones\BadRequestException.java
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\excepciones\InternalServerErrorException.java
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\FarmaApplication.java
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\model\LoginRequest.java
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\model\Ticket.java
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\model\Usuario.java
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\repository\TicketRepository.java
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\repository\UsuarioRepository.java
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\security\JwtAuthenticationFilter.java
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\security\JwtUtil.java
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\service\TicketService.java
+c:\Users\USUARIO\Documents\PRUEBAFARMA\farma\src\main\java\com\prueba\farma\service\UsuarioService.java

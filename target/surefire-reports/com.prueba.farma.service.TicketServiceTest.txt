@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.prueba.farma.service.TicketServiceTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.843 s <<< FAILURE! -- in com.prueba.farma.service.TicketServiceTest
+com.prueba.farma.service.TicketServiceTest.testEliminarTicket -- Time elapsed: 0.016 s <<< ERROR!
+java.lang.RuntimeException: El ticket con Id 06f09890-0e3d-419e-a4be-cb4076cb6054No existe
+	at com.prueba.farma.service.TicketService.eliminarTicket(TicketService.java:57)
+	at com.prueba.farma.service.TicketServiceTest.testEliminarTicket(TicketServiceTest.java:81)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
